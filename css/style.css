@@ -123,6 +123,7 @@ hr {
 
 .navbar-header a.navbar-brand:hover{
    color:#fff;
+   font-family:"Lucida Console";
 }
 
 .navbar {
@@ -169,6 +170,7 @@ hr {
   font-size: 36px;
   line-height: 50px;
   color: #fff;
+  font-family:"Lucida Console";
 }
 
 .navbar-fixed-top .navbar-nav > .active > a,
@@ -706,7 +708,7 @@ footer {
 }
 
 #contact {
-	background:url('../img/map.jpg');
+	background:url('../img/etsitMap2.PNG');
 	padding-top:70px;
 	padding-bottom:80px;
 }
@@ -830,3 +832,4 @@ ul.social-network li a {
 .social-network li:hover .fa-pinterest-square {
   color: #EA4B49; 
 }
+
